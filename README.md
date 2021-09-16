@@ -1,5 +1,7 @@
 # Fancy-Fractal
-Make astonishing fractal art. Change the settings for unique shapes and save your favorite pictures. 
+Make astonishing fractal art. Change the settings for unique shapes and save your favorite pictures.
+
+#### Run gui.py to start
 
 
 ## Screenshot
